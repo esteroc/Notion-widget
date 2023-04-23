@@ -3,7 +3,7 @@
     <title>Greeting Message</title> 
     <style>
 #lbl {
-    font-family: new serif;
+    font-family: monospace;
     font-size: xx-large;
     color: #FFFAFA;
     padding: 5px;
